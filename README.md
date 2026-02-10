@@ -35,5 +35,5 @@ The following design decision were taken:
 The following improvement can be done in the application:
 1. Add a container for react frontent.
 2. Add a container for a local DB instance (MongoDB, PostgreSQL, MySQL).
-3. Add a catch like redis.
+3. Add a cache like redis.
 4. The entire application can be ported to kubernetes for better scaling.
